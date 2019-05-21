@@ -1,0 +1,16 @@
+{
+    "name": "superizqi/line-bot-php",
+    "description": "Simple line bot using php slim framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "rizqi",
+            "email": "rizqiphd@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3",
+        "slim/slim": "^3.8",
+        "linecorp/line-bot-sdk": "^2.1"
+    }
+}
